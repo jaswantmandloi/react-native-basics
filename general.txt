@@ -1,0 +1,118 @@
+Install
+https://habiletechnologies.com/blog/getting-started-react-native-complete-setup-guide/
+
+react-native init MySampleApp
+
+react-native init MyApp --package=com.jokesdiary.jokes1
+
+
+
+
+Run
+
+react-native start
+react-native run-android
+
+Clean android build
+cd android ./gradlew clean
+
+
+
+Help
+React-native --help
+
+
+
+Max Watchers settings
+
+https://code.visualstudio.com/docs/setup/linux#_visual-studio-code-is-unable-to-watch-for-file-changes-in-this-large-workspace-error-enospc.
+
+
+
+Linking
+
+https://facebook.github.io/react-native/docs/linking-libraries-ios
+
+
+
+
+Plugins
+
+Admob
+https://dev-yakuza.github.io/en/react-native/react-native-firebase-admob/
+
+
+
+Admob
+Analytics
+Notifications
+https://invertase.io/oss/react-native-firebase/v6/admob/quick-start/
+
+https://rnfirebase.io/docs/v5.x.x/auth/phone-auth
+
+
+sqllite
+https://www.npmjs.com/package/react-native-sqlite-storage
+
+https://dev-yakuza.github.io/en/react-native/react-native-sqlite-storage/
+https://brucelefebvre.com/blog/2018/11/06/react-native-offline-first-db-with-sqlite/
+
+
+App rate
+https://www.npmjs.com/package/react-native-rate
+
+
+Social Share
+
+https://github.com/react-native-community/react-native-share
+
+react-native link react-native-share
+
+Network Information
+
+https://github.com/react-native-community/react-native-netinfo
+
+npm install --save @react-native-community/netinfo
+react-native link @react-native-community/netinfo
+YouTube
+
+https://www.npmjs.com/package/react-native-youtube
+npm install react-native-youtube --save
+
+File Storage
+
+https://github.com/joltup/rn-fetch-blob
+
+
+
+
+
+
+Themes
+https://github.com/xotahal/react-native-material-ui/blob/master/docs/GettingStarted.md
+
+https://docs.nativebase.io/docs/GetStarted.html
+
+https://github.com/GeekyAnts/NativeBase-KitchenSink/blob/master/src/screens/typography/index.js
+
+
+Virtual List
+
+https://facebook.github.io/react-native/docs/virtualizedlist
+
+https://snack.expo.io/HJc-0uygW
+
+https://blog.apollographql.com/loading-data-into-react-natives-flatlist-9646fa9a199b
+
+
+
+Render HTML
+
+https://github.com/archriss/react-native-render-html
+
+https://dev.to/mrcflorian/how-to-retrieve-wordpress-posts-in-react-native-3fmd
+
+
+
+https://blog.bitsrc.io/11-react-native-component-libraries-you-should-know-in-2018-71d2a8e33312
+
